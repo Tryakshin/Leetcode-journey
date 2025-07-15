@@ -6,9 +6,9 @@ All Leetcode problems solution, wich I solved
 ## Problems solved 0
 
 easy = 7
-medium = 1
+medium = 2
 hard = 0 
 
 ## Theme 
 
-- Arrays =  8
+- Arrays =  9
